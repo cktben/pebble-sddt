@@ -1,0 +1,16 @@
+{
+  "uuid": "3b6c8acc-6b3e-4a13-ac9f-364eb87f0d76",
+  "shortName": "sddt",
+  "longName": "sddt",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": []
+  }
+}
